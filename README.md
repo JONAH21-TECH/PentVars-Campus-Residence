@@ -44,6 +44,8 @@ Room Assignment
 	•	SRC members and hall representatives choose their wing, and may request to room with a hall representative if space allows.
 	•	Executive-style rooms (SRC/reps) cap at 3 occupants, though 2 is typical.
 
+Room Switches: Once assigned, a student may request to switch rooms (e.g. due to a roommate conflict). The request is reviewed and approved or denied by the hall representatives — no re-verification of eligibility is needed, since being in a room already confirms it.
+
 Billing & Incidents
 
 	•	Students can view their room, roommates, and any fees/debts owed.
