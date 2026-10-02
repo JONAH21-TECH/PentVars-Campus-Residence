@@ -16,6 +16,16 @@ room_assignments
 	•	date_assigned
 	•	status (active | moved_out)
 
+room_switch_requests
+
+	•	id
+	•	student_id → students
+	•	current_room_id → rooms
+	•	requested_room_id → rooms
+	•	reason
+	•	status (pending | approved | denied)
+	•	reviewed_by → users (hall rep)
+
 fees
 
 	•	id
