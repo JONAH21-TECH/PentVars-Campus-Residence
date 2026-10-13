@@ -34,7 +34,7 @@
     { id: "anan", name: "Anan Hall", type: "MIXED", floors: [
       { n: 0, g: "F" }, { n: 1, g: "F" }, { n: 2, g: "M" }, { n: 3, g: "M" }, { n: 4, g: null, vacant: true }
     ] },
-    { id: "sappho", name: "Sappho Hall", type: "MALE_ONLY", floors: [
+    { id: "sappho", name: "Safo Hall", type: "MALE_ONLY", floors: [
       { n: 0, g: "M" }, { n: 1, g: "M" }, { n: 2, g: "M" }
     ] },
     { id: "yeboah", name: "Yeboah Hall", type: "FEMALE_ONLY", floors: [
